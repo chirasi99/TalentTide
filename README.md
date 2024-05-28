@@ -1,4 +1,4 @@
-### TalentTide Employee Management System
+# TalentTide Employee Management System
 - Welcome to the TalentTide Employee Management System! 
 - This application is a comprehensive full-stack web project designed to manage employee data effectively.
 - It utilizes modern technologies and frameworks, including Spring Boot, Spring Security, React JS, and PostgreSQL.
